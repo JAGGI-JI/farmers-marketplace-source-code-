@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "sugarcane",
+    "category": "sessional product",
+    "price": 25,
+    "stock": 500 ,
+    "image": "public/images/laptop.png",
+    "description": "fresh, organic and juicy sugarcane"
+    
+  },
+  {
+    "id": 2,
+    "name": "grapes",
+    "category": "fruit",
+    "price": 499.99,
+    "stock": 100,
+    "image": "public/images/mobiles.png",
+    "description": "best quality grapes"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Audio",
+    "price": 149.99,
+    "stock": 30,
+    "image": "public/images/headphoneEcom.png",
+    "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+  },
+  {
+    "id": 4,
+    "name": "Watches",
+    "category": "Wearables",
+    "price": 199.99,
+    "stock": 20,
+    "image": "public/images/watch.png",
+    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+  },
+  {
+    "id": 5,
+    "name": "Speakers",
+    "category": "Audio",
+    "price": 149.99,
+    "stock": 30,
+    "image": "public/images/speakers.png",
+    "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+  },
+  {
+    "id": 6,
+    "name": "Television",
+    "category": "Video",
+    "price": 199.99,
+    "stock": 20,
+    "image": "public/images/tv.png",
+    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+  }
+]
